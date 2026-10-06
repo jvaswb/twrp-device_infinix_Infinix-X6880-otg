@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 export OF_DISABLE_OTA_MENU=1
 export FOX_AB_DEVICE=1
